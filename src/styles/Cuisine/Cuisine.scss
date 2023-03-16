@@ -1,0 +1,45 @@
+.Cuisine {
+  margin-top: 80px;
+  width: 60vw;
+  height: fit-content;
+  .list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    place-items: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .Cuisine {
+    width: 97vw;
+  }
+}
+
+@media (max-width: 1300px) {
+  .Cuisine {
+    width: 80vw;
+  }
+}
+
+@media (max-width: 1020px) {
+  .Cuisine {
+    .list {
+      grid-template-columns: repeat(3, 1fr) !important;
+    }
+  }
+}
+
+@media (max-width: 750px) {
+  .Cuisine {
+    .list {
+      grid-template-columns: repeat(2, 1fr) !important;
+      gap: 10px;
+      .Card2 {
+        .container {
+          width: 150px;
+          height: 200px;
+        }
+      }
+    }
+  }
+}

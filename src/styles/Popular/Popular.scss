@@ -1,0 +1,30 @@
+.Popular {
+  margin: 4rem 0;
+  h3 {
+    text-transform: uppercase;
+    font-family: var(--ff-poppins);
+    margin-bottom: 10px;
+  }
+  .content {
+    display: flex;
+    gap: 30px;
+    width: inherit;
+    overflow-x: scroll;
+  }
+}
+
+.content::-webkit-scrollbar {
+  height: 12px;
+  overflow: hidden;
+}
+.content::-webkit-scrollbar-track {
+  background: transparent;
+}
+.content::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 25px;
+}
+.content::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 1);
+  height: 90px;
+}

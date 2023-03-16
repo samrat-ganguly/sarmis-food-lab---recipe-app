@@ -1,0 +1,28 @@
+.Footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  img {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  h1 {
+    font-family: var(--ff-lobster);
+    font-style: italic;
+    font-weight: 400;
+    margin-block: 50px;
+  }
+  p {
+    font-weight: 600;
+  }
+}
+@media (max-width: 500px) {
+  .Footer {
+    flex-direction: column;
+    justify-content: center !important;
+    height: 300px;
+  }
+}

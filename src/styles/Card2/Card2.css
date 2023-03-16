@@ -1,0 +1,46 @@
+.Card2 {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.Card2 .container {
+  width: 180px;
+  height: 270px;
+  margin-bottom: 5px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  isolation: isolate;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.Card2 .container img {
+  transition: transform 500ms ease;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  object-position: center;
+  object-fit: cover;
+}
+.Card2 .container p {
+  color: white;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: 10%;
+  padding: 0 10px;
+  z-index: 2;
+  font-family: var(--ff-poppins);
+  font-size: 15px;
+}
+.Card2 .container .gradient {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);
+}
+.Card2 .container:hover img,
+.Card2 .container:focus-visible img {
+  transform: scale(1.1);
+}/*# sourceMappingURL=Card2.css.map */

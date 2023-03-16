@@ -1,0 +1,15 @@
+.Home {
+  width: 60vw;
+  height: fit-content;
+}
+
+@media (max-width: 500px) {
+  .Home {
+    width: 97vw;
+  }
+}
+@media (max-width: 1300px) {
+  .Home {
+    width: 80vw;
+  }
+}/*# sourceMappingURL=Home.css.map */
