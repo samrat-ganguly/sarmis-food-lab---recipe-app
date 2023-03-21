@@ -12,22 +12,23 @@
   width: inherit;
   overflow-x: scroll;
 }
-
-.content::-webkit-scrollbar {
+.Veggie .content::-webkit-scrollbar {
   height: 12px;
   overflow: hidden;
 }
-
-.content::-webkit-scrollbar-track {
+.Veggie .content::-webkit-scrollbar-track {
   background: transparent;
 }
-
-.content::-webkit-scrollbar-thumb {
+.Veggie .content::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.8);
   border-radius: 25px;
 }
-
-.content::-webkit-scrollbar-thumb:hover {
+.Veggie .content::-webkit-scrollbar-thumb:hover {
   background: rgb(0, 0, 0);
   height: 90px;
+}
+@media (max-width: 768px) {
+  .Veggie .content::-webkit-scrollbar-thumb {
+    display: none;
+  }
 }/*# sourceMappingURL=Veggie.css.map */

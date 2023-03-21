@@ -12,22 +12,23 @@
   width: inherit;
   overflow-x: scroll;
 }
-
-.content::-webkit-scrollbar {
+.Popular .content::-webkit-scrollbar {
   height: 12px;
   overflow: hidden;
 }
-
-.content::-webkit-scrollbar-track {
+.Popular .content::-webkit-scrollbar-track {
   background: transparent;
 }
-
-.content::-webkit-scrollbar-thumb {
+.Popular .content::-webkit-scrollbar-thumb {
   background: rgba(0, 0, 0, 0.8);
   border-radius: 25px;
 }
-
-.content::-webkit-scrollbar-thumb:hover {
+.Popular .content::-webkit-scrollbar-thumb:hover {
   background: rgb(0, 0, 0);
   height: 90px;
+}
+@media (max-width: 768px) {
+  .Popular .content::-webkit-scrollbar-thumb {
+    display: none;
+  }
 }/*# sourceMappingURL=Popular.css.map */

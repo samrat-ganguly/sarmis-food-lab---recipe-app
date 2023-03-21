@@ -5,7 +5,7 @@ import { PropagateLoader } from "react-spinners";
 const Loader = () => {
   return (
     <div className="Loader">
-      <PropagateLoader color={"#e94057"} size={35} />
+      <PropagateLoader color={"#313131"} size={35} />
     </div>
   );
 };

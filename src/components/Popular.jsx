@@ -1,5 +1,5 @@
 import React from "react";
-import Card2 from "./Card2";
+import Card1 from "./Card1";
 import "../styles/Popular/Popular.css";
 import { Link } from "react-router-dom";
 import { data } from "../recipe_api/data";
@@ -14,7 +14,7 @@ const Popular = () => {
         {Data.slice(0, 20).map((e) => {
           return (
             <Link to={`/recipe/${e.id}`}>
-              <Card2 data={e} />
+              <Card1 data={e} />
             </Link>
           );
         })}

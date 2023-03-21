@@ -1,9 +1,9 @@
-.Card2 {
+.Card1 {
   margin-bottom: 20px;
   cursor: pointer;
 }
-.Card2 .container {
-  width: 180px;
+.Card1 .container {
+  width: 240px;
   height: 270px;
   margin-bottom: 5px;
   position: relative;
@@ -12,7 +12,7 @@
   isolation: isolate;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 }
-.Card2 .container img {
+.Card1 .container img {
   transition: transform 500ms ease;
   position: absolute;
   inset: 0;
@@ -22,7 +22,7 @@
   object-position: center;
   object-fit: cover;
 }
-.Card2 .container p {
+.Card1 .container p {
   color: white;
   position: absolute;
   width: 100%;
@@ -34,18 +34,18 @@
   font-size: 15px;
   transition: bottom 350ms ease;
 }
-.Card2 .container .gradient {
+.Card1 .container .gradient {
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);
 }
-.Card2 .container:hover img,
-.Card2 .container:focus-visible img {
+.Card1 .container:hover img,
+.Card1 .container:focus-visible img {
   transform: scale(1.1);
 }
-.Card2 .container:hover p,
-.Card2 .container:focus-visible p {
+.Card1 .container:hover p,
+.Card1 .container:focus-visible p {
   bottom: 10%;
-}/*# sourceMappingURL=Card2.css.map */
+}/*# sourceMappingURL=Card1.css.map */
