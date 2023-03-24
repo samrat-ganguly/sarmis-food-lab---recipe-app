@@ -1,12 +1,37 @@
 export const data_cake = [
   {
-    id: 1,
-    title: "Food test",
-    desc: "lorem safasf safsafsafsaf f af safas ac asc c ac asc",
-    process: ["Step 1", "Step 2"],
-    ingridients: ["Step 1", "Step 2"],
+    id: 3,
+    title: "Red Velvet Cake",
+    desc: "In the 19th century, 'velvet' cake, a soft and velvety crumb cake, came to be served as a fancy dessert, in contrast to what had been the more common, coarser-crumbed cake. Around the turn of the 20th century, devil's food cake was introduced, which is how some believe that red velvet cake came about.",
+    process: [
+      "Start by beating butter & sugar in a bowl. Then add egg & beat. Add vanila essence & beat. Add curd & red food colour and beat.",
+      "Add dry ingredients and mix by cut & fold method and bake for 35 mins at 180 deg (preheated oven)",
+      "Mix cream cheese, powder suger & vanila essence - mix all togeather and wisk. Then mix 50 gr of whipped cream",
+      "For the icing cream the soft cheese using a whisk. Then add sugar, vanilla extract and half of the whipped cream. Whisk them together. Now gently fold in the remaining whipped cream into the icing.",
+      "Once the cake is completely cooled, using a bread knife to remove the top crust to flatten the cake. Also remove a thin layer from the sides. Reserve the bright crumbs for garnishing.",
+      "Now using the bread knife slize the cake horizontally into 2 parts. Spread the icing evenly between the parts as well as on the side using a palette knife.",
+      "Garnish the cake using the crumbs and let it chill for 2-3 hours before slicing it.",
+      "Hence Sarmi's red velvet cake is done and dusted.",
+    ],
+    ingridients: [
+      "BASE",
+      "Maida -150 gr",
+      "Cocoa Powder - 1 tbsp",
+      "Baking Salt - 1 tsp",
+      "Baking Powder- 1 tsp",
+      "Salt -1 pinch",
+      "Powdered Sugar -150 gr",
+      "Butter -200 gr",
+      "Egg- 2 pc",
+      "Curd -125 gr",
+      "FILLING",
+      "Cream Cheese -250 gr",
+      "Powdered Suger -70 gr",
+      "Vanilla Essence - 1 tsp",
+      "Whipped Cream(beated)",
+    ],
     image:
-      "https://plus.unsplash.com/premium_photo-1663844169693-9b0eb5032423?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=600",
+      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/3.jpg",
   },
 
   {
