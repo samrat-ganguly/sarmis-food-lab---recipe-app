@@ -31,7 +31,7 @@
 
 @media (max-width: 500px) {
   .Search {
-    width: 97vw;
+    width: 97vw !important;
   }
 }
 @media (max-width: 1300px) {

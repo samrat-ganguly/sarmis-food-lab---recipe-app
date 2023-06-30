@@ -15,7 +15,7 @@
   }
 
   img {
-    width: 350px;
+    width: 320px;
     aspect-ratio: 9/16;
     object-fit: cover;
     object-position: center;
@@ -28,7 +28,7 @@
       background: transparent;
       box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
       border: 2px solid black;
-      margin-right: 2rem;
+      margin-right: 1.8rem;
       font-weight: 600;
       font-family: var(--ff-poppins);
     }
@@ -38,7 +38,7 @@
     }
 
     p {
-      width: 400px;
+      width: 320px;
       text-align: justify;
       font-family: var(--ff-poppins);
       margin-top: 20px;
@@ -48,12 +48,14 @@
 }
 
 @media (max-width: 1050px) {
-  img {
-    width: 320px;
-  }
-  .buttons {
-    p {
-      width: 320px !important;
+  .Recipe {
+    img {
+      width: 350px !important;
+    }
+    .buttons {
+      p {
+        width: 320px !important;
+      }
     }
   }
 }
@@ -63,8 +65,35 @@
     flex-direction: column;
     align-items: center;
     .buttons {
+      button:nth-child(2) {
+        margin-left: 1.8rem;
+        margin-right: 0;
+      }
       p {
         width: 350px !important;
+      }
+    }
+  }
+}
+
+@media (max-width: 425px) {
+  .Recipe {
+    img {
+      width: 300px !important;
+    }
+    .buttons {
+      margin-inline: auto;
+      button:nth-child(2) {
+        margin-left: 1.5rem;
+        margin-right: 0;
+      }
+      button {
+        height: 60px;
+        margin-right: 1.5rem;
+        margin-left: 0.5rem;
+      }
+      p {
+        padding-inline: 10px !important;
       }
     }
   }
