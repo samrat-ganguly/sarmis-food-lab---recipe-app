@@ -11,7 +11,7 @@ const Veggie = () => {
       <div className="content">
         {data_special.map((e) => {
           return (
-            <Link to={`/recipe/${e.id}`}>
+            <Link to={`/recipe/${e.id}`} key={`veggiereceipe${e.id}`}>
               <Card2 data={e} />
             </Link>
           );

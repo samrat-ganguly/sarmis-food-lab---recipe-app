@@ -14,7 +14,7 @@ const Result = () => {
         {data.map((e) => {
           if (e.title.toLowerCase().includes(search)) {
             return (
-              <Link to={`/recipe/${e.id}`}>
+              <Link to={`/recipe/${e.id}`} key={`receipe${e.id}`}>
                 <Card2 data={e} />
               </Link>
             );

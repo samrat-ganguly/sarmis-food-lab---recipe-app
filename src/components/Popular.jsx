@@ -13,7 +13,7 @@ const Popular = () => {
       <div className="content">
         {Data.slice(0, 20).map((e) => {
           return (
-            <Link to={`/recipe/${e.id}`}>
+            <Link to={`/recipe/${e.id}`} key={`popularreceipe${e.id}`}>
               <Card1 data={e} />
             </Link>
           );
