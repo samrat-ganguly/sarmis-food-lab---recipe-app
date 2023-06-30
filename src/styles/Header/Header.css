@@ -16,4 +16,14 @@
   font-style: italic;
   font-weight: 400;
   margin-block: 50px;
+}
+
+@media (max-width: 425px) {
+  .Header {
+    flex-direction: column;
+  }
+  .Header h1 {
+    font-size: 25px;
+    margin-block: 5px;
+  }
 }/*# sourceMappingURL=Header.css.map */

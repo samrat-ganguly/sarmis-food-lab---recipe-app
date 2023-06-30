@@ -17,3 +17,12 @@
     margin-block: 50px;
   }
 }
+@media (max-width: 425px) {
+  .Header {
+    flex-direction: column;
+    h1 {
+      font-size: 25px;
+      margin-block: 5px;
+    }
+  }
+}
