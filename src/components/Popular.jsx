@@ -11,7 +11,7 @@ const Popular = () => {
     <div className="Popular">
       <h3>Popular Picks</h3>
       <div className="content">
-        {Data.slice(0, 20).map((e) => {
+        {Data.slice(n, n + 8).map((e) => {
           return (
             <Link to={`/recipe/${e.id}`} key={`popularreceipe${e.id}`}>
               <Card1 data={e} />
