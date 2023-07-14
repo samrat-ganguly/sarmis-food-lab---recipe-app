@@ -29,7 +29,7 @@ export const data_dessert = [
       "¼ tsp cardamom powder",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/2.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/dba0d3a3-25ac-444b-88c4-eed19a597a62",
   },
 
   {
@@ -38,23 +38,24 @@ export const data_dessert = [
     desc: "Raita is a side dish in Indian cuisine made of dahi (yogurt, often referred to as curd) together with raw or cooked vegetables, more seldom fruit, or in the case of boondi raita, with fried droplets of batter made from besan (chickpea flour, generally labeled as gram flour).",
     process: [
       "Take some curd in a bowl.",
-      "Add boiled beetroot to it.",
+      "Add half-boiled beetroot to it.",
+      "Add boiled sweetcorn to it.",
       "Blend them well together.",
-      "Now, pour it in a bowl and add chopped cucumber and finely cut onions on top of it.",
+      "Now, pour it in a bowl and add chopped cucumber.",
       "Add salt and stir well.",
-      "Garnish with coriander leaves.",
+      "Garnish with pudina leaves, chilli flakes and some sweetcorn.",
       "Best paired with Biryani or some other dishes.",
     ],
     ingridients: [
       "2 Cups Curd",
-      "3 tsp Boiled Beetroot",
+      "3 tsp Half-Boiled Beetroot",
       "1 tsp Cucumber",
       "1/2 small Onion",
       "1/2 tsp Salt",
       "2 tsp Coriander Leaves",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/9.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/263f80b4-2ee9-4766-ad68-becddb01baaa",
   },
 
   {
@@ -73,7 +74,7 @@ export const data_dessert = [
       "Few crushed pesta",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/11.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/881517f7-b285-40a6-bbd7-883d9764f51a",
   },
 
   {
@@ -96,7 +97,7 @@ export const data_dessert = [
       "Mix until well combined.",
       "Pour into freezer safe containers. I used a regular plastic box with lid and my bread loaf tin.",
       "Place a butter paper over it, close with lid and freeze it for minimum 8 hrs.",
-      "Now after 8 hrs remove the containers from fridge, rest for 5 mins atleast then remove the butter paper.",
+      "Now after 12 hrs remove the containers from fridge, rest for 5 mins atleast then remove the butter paper.",
       "Dip the icecream scooper in warm water.",
       "Then start scooping. If it is too hard wait for 2 more mins then scoop.",
       "First it may feel hard later after starting to scoop you will feel the creaminess.",
@@ -111,7 +112,62 @@ export const data_dessert = [
       "2 tsp Coriander Leaves",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/12.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/451c09c0-e26f-42bb-a831-beb2d7aa3a5c",
+  },
+
+  {
+    id: 14,
+    title: "Rose Coconut Laddu",
+    desc: "It was invented by Mattha Pandey, a follower of Mahatma Gandhi. Pandey heard Gandhi refer to white sugar, which was popularized in India by the British, as 'white poison' and disease-causing. Since his laddu was made with white sugar, he named it accordingly.",
+    process: [
+      "Combine all the ingredients in a deep bowl and mix well.",
+      "Divide the mixture into 15 equal portions and roll each portion into a ball.",
+      "Roll each ball into coconut and serve immediately or store in an air-tight container.",
+    ],
+    ingridients: [
+      "2 cups desiccated coconut",
+      "2 tbsp rose syrup",
+      "1/4 cup condensed milk",
+      "1 tbsp finely chopped almonds (badam)",
+      "1 tbsp finely chopped cashew nut (kaju)",
+      "a drop of edible food red colour",
+      "For Rolling desiccated coconut dried rose petals (optional)",
+    ],
+    image:
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/8aa167b3-312f-45c5-b416-166dcbd1f4d5",
+  },
+
+  {
+    id: 15,
+    title: "Paan Modak",
+    desc: "Modak is considered to be the favourite sweet of the Hindu deity, Ganesha. From it, he gets the name moniker modakapriya (one who likes modak) in Sanskrit. The word modak means 'small part of bliss' and it symbolises spiritual knowledge.",
+    process: [
+      "In a grinder, add paan, saunf, gulkand and grind to fine paste using little water. ",
+      "Heat ghee in a pan, add desiccated coconut and roast for 2-3 minutes on low flame. ",
+      "Add milk, amul powder, sugar (adjust the sweetness according to taste) and grinded paan paste. Mix well.  ",
+      "Add few drops of green food colour. (optional step) ",
+      "Cook on low flame for about 2-3 minutes until the mixture thickens. ",
+      "Turn off the flame and transfer it to a plate. Let it cool for few minutes till it becomes warm. ",
+      "When the mixture is warm enough. Apply some ghee on your palms and knead the dough. Knead well and make a smooth dough. ",
+      "Grease the mold with ghee and stuff the prepared mixture into the mold and press to the sides. Stuff 1 teaspoon gulkand in center, Cover the bottom and seal it properly and tightly. ",
+      "Additionally, in the stuffing you can add finely chopped cashew nuts and pesta along with gulkand.",
+      "Carefully remove from mold. Grease and repeat to make remaining modak. ",
+      "Enjoy this sweet. ",
+    ],
+    ingridients: [
+      "4-5 betel leaves (paan) ",
+      "1 teaspoon saunf (fennel seeds) ",
+      "2 tbsp gulkand ",
+      "½ cup desiccated coconut ",
+      "½ cup milk ",
+      "½ cup milk powder",
+      "1-2 tbsp sugar (adjust to taste) ",
+      "2-3 drops of green food color (optional) ",
+      "Gulkand and Paan Masala for stuffing ",
+      "Cashew nuts and Pesta (finely chopped)",
+    ],
+    image:
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/ec7ce12f-e072-4900-abe3-2083235c38c4",
   },
 
   {
@@ -133,7 +189,7 @@ export const data_dessert = [
       "1tsp Unsalted Butter",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/16.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/bfe20e72-df58-4230-9163-6313b4947991",
   },
 
   {
@@ -170,7 +226,7 @@ export const data_dessert = [
       "Rose Petals for garnishing.",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/17.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/de299ee1-ec9b-4f17-84e8-ca92fe5dd9ca",
   },
 
   {
@@ -191,6 +247,6 @@ export const data_dessert = [
       "Sugar – ¾ cup",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/18.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/f99a058d-7417-4306-8615-128de3c1ae4d",
   },
 ];

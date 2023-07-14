@@ -31,7 +31,7 @@ export const data_cake = [
       "Whipped Cream(beated)",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/3.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/2f90ba9f-eaa7-4a8f-b0ff-f3ae14423be4",
   },
 
   {
@@ -71,6 +71,6 @@ export const data_cake = [
       "¾ tbsp lemon juice",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/5.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/02534a8e-935f-426f-856c-ab2ab26cd4f4",
   },
 ];

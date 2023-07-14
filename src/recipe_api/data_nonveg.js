@@ -33,7 +33,7 @@ export const data_nonveg = [
       "Salt to taste",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/food-lab-pics/main/1.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/c317d76e-a645-4750-9f99-a42ccc9b2124",
   },
 
   {
@@ -69,7 +69,7 @@ export const data_nonveg = [
       "Chilli Flakes - 1 pinch",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/food-lab-pics/main/4.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/269ecf26-a6eb-43ea-af4a-6aa8d5ead458",
   },
 
   {
@@ -105,7 +105,7 @@ export const data_nonveg = [
       "a pinch of orange red (tandoori) colour",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/6.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/fbbcdde5-6c23-48b9-a20b-cfc1e8f5a8fe",
   },
 
   {
@@ -148,7 +148,7 @@ export const data_nonveg = [
       "1 tsp ghee",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/7.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/ee2a39c2-2135-4383-a551-92374abc5553",
   },
 
   {
@@ -159,7 +159,7 @@ export const data_nonveg = [
       "Powder the special garam masala powde",
       "Start by marinating the chicken with all the ingredients given. Let it marinate for 2 hours but overnight is grea",
       "Wash and soak basmati rice for a hou",
-      "      Bring lots of water with salt to a boil. Once it boils, add in the drained rice and cook it for 5 to 7 mins till it is 90 percent done. When you taste it, it should have a bite.Drain it and set asid",
+      "Bring lots of water with salt to a boil. Once it boils, add in the drained rice and cook it for 5 to 7 mins till it is 90 percent done. When you taste it, it should have a bite.Drain it and set asid",
       "      Heat oil in a big pot which you are making biryan",
       "      Add in onions and fry till golden, drain and set asid",
       "      Soak saffron in some warm milk, heat ghee in a sauce pan and fry cashews and raisans till golde",
@@ -205,6 +205,6 @@ export const data_nonveg = [
       "1 tbsp Fennel Seeds",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/8.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/1d2e0835-33fa-4586-95e1-147448dd2940",
   },
 ];

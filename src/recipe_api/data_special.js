@@ -31,7 +31,7 @@ export const data_special = [
       "Whipped Cream(beated)",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/3.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/2f90ba9f-eaa7-4a8f-b0ff-f3ae14423be4",
   },
 
   {
@@ -74,7 +74,7 @@ export const data_special = [
       "1 tsp ghee",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/7.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/ee2a39c2-2135-4383-a551-92374abc5553",
   },
 
   {
@@ -131,7 +131,7 @@ export const data_special = [
       "1 tbsp Fennel Seeds",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/8.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/1d2e0835-33fa-4586-95e1-147448dd2940",
   },
 
   {
@@ -169,7 +169,7 @@ export const data_special = [
       "2 tsp Coriander Leaves",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/12.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/451c09c0-e26f-42bb-a831-beb2d7aa3a5c",
   },
 
   {
@@ -191,7 +191,7 @@ export const data_special = [
       "1tsp Unsalted Butter",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/16.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/bfe20e72-df58-4230-9163-6313b4947991",
   },
 
   {
@@ -227,7 +227,7 @@ export const data_special = [
       "Chilli Flakes - 1 pinch",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/4.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/269ecf26-a6eb-43ea-af4a-6aa8d5ead458",
   },
 
   {
@@ -267,6 +267,6 @@ export const data_special = [
       "¾ tbsp lemon juice",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/5.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/02534a8e-935f-426f-856c-ab2ab26cd4f4",
   },
 ];

@@ -33,7 +33,7 @@ export const data = [
       "Salt to taste",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/1.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/c317d76e-a645-4750-9f99-a42ccc9b2124",
   },
 
   {
@@ -66,7 +66,7 @@ export const data = [
       "¼ tsp cardamom powder",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/2.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/dba0d3a3-25ac-444b-88c4-eed19a597a62",
   },
 
   {
@@ -101,7 +101,7 @@ export const data = [
       "Whipped Cream(beated)",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/3.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/2f90ba9f-eaa7-4a8f-b0ff-f3ae14423be4",
   },
 
   {
@@ -137,7 +137,7 @@ export const data = [
       "Chilli Flakes - 1 pinch",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/4.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/269ecf26-a6eb-43ea-af4a-6aa8d5ead458",
   },
 
   {
@@ -177,7 +177,7 @@ export const data = [
       "¾ tbsp lemon juice",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/5.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/02534a8e-935f-426f-856c-ab2ab26cd4f4",
   },
 
   {
@@ -213,7 +213,7 @@ export const data = [
       "a pinch of orange red (tandoori) colour",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/6.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/fbbcdde5-6c23-48b9-a20b-cfc1e8f5a8fe",
   },
 
   {
@@ -256,7 +256,7 @@ export const data = [
       "1 tsp ghee",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/7.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/ee2a39c2-2135-4383-a551-92374abc5553",
   },
 
   {
@@ -313,7 +313,7 @@ export const data = [
       "1 tbsp Fennel Seeds",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/8.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/1d2e0835-33fa-4586-95e1-147448dd2940",
   },
 
   {
@@ -339,7 +339,7 @@ export const data = [
       "2 tsp Coriander Leaves",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/9.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/263f80b4-2ee9-4766-ad68-becddb01baaa",
   },
 
   {
@@ -382,7 +382,7 @@ export const data = [
       "10 g ghee",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/10.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/d1510ff7-884a-47a0-a63b-782e0b74d7f1",
   },
 
   {
@@ -401,7 +401,7 @@ export const data = [
       "Few crushed pesta",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/11.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/881517f7-b285-40a6-bbd7-883d9764f51a",
   },
 
   {
@@ -439,7 +439,62 @@ export const data = [
       "2 tsp Coriander Leaves",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/12.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/451c09c0-e26f-42bb-a831-beb2d7aa3a5c",
+  },
+
+  {
+    id: 14,
+    title: "Rose Coconut Laddu",
+    desc: "It was invented by Mattha Pandey, a follower of Mahatma Gandhi. Pandey heard Gandhi refer to white sugar, which was popularized in India by the British, as 'white poison' and disease-causing. Since his laddu was made with white sugar, he named it accordingly.",
+    process: [
+      "Combine all the ingredients in a deep bowl and mix well.",
+      "Divide the mixture into 15 equal portions and roll each portion into a ball.",
+      "Roll each ball into coconut and serve immediately or store in an air-tight container.",
+    ],
+    ingridients: [
+      "2 cups desiccated coconut",
+      "2 tbsp rose syrup",
+      "1/4 cup condensed milk",
+      "1 tbsp finely chopped almonds (badam)",
+      "1 tbsp finely chopped cashew nut (kaju)",
+      "a drop of edible food red colour",
+      "For Rolling desiccated coconut dried rose petals (optional)",
+    ],
+    image:
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/8aa167b3-312f-45c5-b416-166dcbd1f4d5",
+  },
+
+  {
+    id: 15,
+    title: "Paan Modak",
+    desc: "Modak is considered to be the favourite sweet of the Hindu deity, Ganesha. From it, he gets the name moniker modakapriya (one who likes modak) in Sanskrit. The word modak means 'small part of bliss' and it symbolises spiritual knowledge.",
+    process: [
+      "In a grinder, add paan, saunf, gulkand and grind to fine paste using little water. ",
+      "Heat ghee in a pan, add desiccated coconut and roast for 2-3 minutes on low flame. ",
+      "Add milk, amul powder, sugar (adjust the sweetness according to taste) and grinded paan paste. Mix well.  ",
+      "Add few drops of green food colour. (optional step) ",
+      "Cook on low flame for about 2-3 minutes until the mixture thickens. ",
+      "Turn off the flame and transfer it to a plate. Let it cool for few minutes till it becomes warm. ",
+      "When the mixture is warm enough. Apply some ghee on your palms and knead the dough. Knead well and make a smooth dough. ",
+      "Grease the mold with ghee and stuff the prepared mixture into the mold and press to the sides. Stuff 1 teaspoon gulkand in center, Cover the bottom and seal it properly and tightly. ",
+      "Additionally, in the stuffing you can add finely chopped cashew nuts and pesta along with gulkand.",
+      "Carefully remove from mold. Grease and repeat to make remaining modak. ",
+      "Enjoy this sweet. ",
+    ],
+    ingridients: [
+      "4-5 betel leaves (paan) ",
+      "1 teaspoon saunf (fennel seeds) ",
+      "2 tbsp gulkand ",
+      "½ cup desiccated coconut ",
+      "½ cup milk ",
+      "½ cup milk powder",
+      "1-2 tbsp sugar (adjust to taste) ",
+      "2-3 drops of green food color (optional) ",
+      "Gulkand and Paan Masala for stuffing ",
+      "Cashew nuts and Pesta (finely chopped)",
+    ],
+    image:
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/ec7ce12f-e072-4900-abe3-2083235c38c4",
   },
 
   {
@@ -461,7 +516,7 @@ export const data = [
       "1tsp Unsalted Butter",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/16.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/bfe20e72-df58-4230-9163-6313b4947991",
   },
 
   {
@@ -498,7 +553,7 @@ export const data = [
       "Rose Petals for garnishing.",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/17.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/de299ee1-ec9b-4f17-84e8-ca92fe5dd9ca",
   },
 
   {
@@ -519,6 +574,6 @@ export const data = [
       "Sugar – ¾ cup",
     ],
     image:
-      "https://raw.githubusercontent.com/samrat-ganguly/sarmis-food-lab-pics/main/18.jpg",
+      "https://github.com/samrat-ganguly/sarmis-food-lab-pics/assets/81913029/f99a058d-7417-4306-8615-128de3c1ae4d",
   },
 ];
